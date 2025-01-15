@@ -1,4 +1,5 @@
-## ReNe (Reading News) merupakan Aplikasi mobile untuk membaca berita. aplikasi ini dibuat oleh mahasiswa dari Universitas Adhirajasa Reswara Sanjaya yang beranggotakan :
+# ReNe (Reading News) 
+ReNe (Reading News) merupakan Aplikasi mobile untuk membaca berita. aplikasi ini dibuat oleh mahasiswa dari Universitas Adhirajasa Reswara Sanjaya yang beranggotakan :
 1. Adhendi
 2. Muhammad Fahmi Novianto
 3. Muhammad Shidiq Maksum
