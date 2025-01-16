@@ -1,11 +1,11 @@
 # ReNe (Reading News)
 ReNe (Reading News) merupakan Aplikasi mobile untuk membaca berita. aplikasi ini dibuat oleh mahasiswa dari Universitas Adhirajasa Reswara Sanjaya yang beranggotakan :
 
-1. Dendi
-2. Muhammad Fahmi Novianto
-3. Muhammad Shidiq Maksum
-4. M Azril Budi Prasetya
-5. Muhammad Sahel Muhyidin
+1. Dendi (Desain apk)
+2. Muhammad Fahmi Novianto (Membuat profile on progress dan artikel)
+3. Muhammad Shidiq Maksum (laporan dan artikel)
+4. M Azril Budi Prasetya (laporan)
+5. Muhammad Sahel Muhyidin (Membuat Home on progress)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
